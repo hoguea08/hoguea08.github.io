@@ -1807,7 +1807,7 @@ input, select, textarea {
 				color: #f6f2f0;
 			}
 
-			#nav a.icon.fa-twitter {
+			#nav a.icon.fa-github {
 				color: #f6f2f0;
 			}
 
@@ -2001,7 +2001,7 @@ input, select, textarea {
 
 			#main > .panel.intro {
 				padding: 0;
-				height: 20em;
+				height: 24em;
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
@@ -2126,11 +2126,13 @@ input, select, textarea {
 						font-size: 1.25em;
 						margin: 0.25em 0 0 0;
 						opacity: .75;
+						font-weight: bolder;
 					}
 
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
 						font-size: .75em;
+						font-weight: bolder;
 						/*margin: 0.25em 0 0 0;*/
 					}
 
@@ -2168,6 +2170,7 @@ input, select, textarea {
 
 						#main > .panel.intro header p {
 							font-size: 1em;
+							font-weight: bolder;
 							/*margin: 0.25em 0 0 0;*/
 						}
 
