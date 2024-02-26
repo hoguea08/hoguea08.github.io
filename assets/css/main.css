@@ -1300,18 +1300,12 @@ input, select, textarea {
 	}
 
 	body {
-		/* background-image: url("images/overlay.png"), url("images/bg.jpg");*/
-		/*background-image: url("images/background.png");
-		/*background-repeat: repeat, no-repeat;*/
 		background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='2000' height='800' preserveAspectRatio='none' viewBox='0 0 2000 800'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1069%26quot%3b)' fill='none'%3e%3crect width='2000' height='800' x='0' y='0' fill='rgba(92%2c 187%2c 196%2c 1)'%3e%3c/rect%3e%3cpath d='M2133.3333333333335 800L0 800 L0 482.95Q51.04 433.99%2c 100 485.02Q141.49 359.84%2c 266.6666666666667 401.33Q357.05 325.05%2c 433.33333333333337 415.43Q492.24 374.34%2c 533.3333333333334 433.25Q581.46 314.71%2c 700 362.84Q792.48 288.66%2c 866.6666666666667 381.14Q935.88 350.36%2c 966.6666666666667 419.57Q992.09 344.99%2c 1066.6666666666667 370.41Q1124.12 327.86%2c 1166.6666666666667 385.31Q1257.28 309.25%2c 1333.3333333333335 399.86Q1389.02 355.55%2c 1433.3333333333335 411.23Q1498.92 310.15%2c 1600.0000000000002 375.74Q1661.01 336.75%2c 1700.0000000000002 397.76Q1839.88 370.97%2c 1866.666666666667 510.85Q1877.83 422.01%2c 1966.666666666667 433.18Q2058.66 358.51%2c 2133.3333333333335 450.5z' fill='rgba(0%2c 115%2c 126%2c 1)'%3e%3c/path%3e%3cpath d='M2033.3333333333335 800L0 800 L0 611.75Q-13.28 498.47%2c 100 485.18Q144.4 429.58%2c 200 473.98Q325.58 432.9%2c 366.6666666666667 558.48Q389.65 481.46%2c 466.6666666666667 504.44Q534.1 405.21%2c 633.3333333333334 472.64Q693.8 433.11%2c 733.3333333333334 493.58Q828.91 489.16%2c 833.3333333333334 584.74Q877.79 529.2%2c 933.3333333333334 573.66Q1037.52 511.18%2c 1100 615.37Q1110.03 525.4%2c 1200 535.44Q1257.07 492.51%2c 1300 549.57Q1313.53 463.1%2c 1400 476.63Q1460.64 437.27%2c 1500 497.91Q1608.33 439.58%2c 1666.6666666666667 547.91Q1718.26 432.84%2c 1833.3333333333335 484.43Q1896.34 447.44%2c 1933.3333333333335 510.44Q1995.25 472.36%2c 2033.3333333333335 534.28z' fill='rgba(20%2c 135%2c 146%2c 1)'%3e%3c/path%3e%3cpath d='M2033.3333333333337 800L0 800 L0 659.3Q16.96 576.25%2c 100 593.21Q190.68 517.22%2c 266.6666666666667 607.9Q335.6 576.84%2c 366.6666666666667 645.77Q386.41 565.51%2c 466.6666666666667 585.25Q562.76 514.68%2c 633.3333333333334 610.78Q714.98 592.42%2c 733.3333333333334 674.07Q779.12 553.19%2c 900 598.98Q1009.3 541.62%2c 1066.6666666666667 650.92Q1164.49 582.08%2c 1233.3333333333335 679.91Q1310.33 590.24%2c 1400.0000000000002 667.23Q1417.02 584.25%2c 1500.0000000000002 601.26Q1590.14 524.74%2c 1666.666666666667 614.88Q1737.55 585.76%2c 1766.666666666667 656.64Q1842.47 565.78%2c 1933.3333333333337 641.58Q1971.94 580.18%2c 2033.3333333333337 618.79z' fill='rgba(16%2c 170%2c 184%2c 1)'%3e%3c/path%3e%3cpath d='M2033.3333333333337 800L0 800 L0 702.4Q100.44 636.18%2c 166.66666666666669 736.62Q238.33 641.62%2c 333.33333333333337 713.29Q438.51 651.8%2c 500.00000000000006 756.97Q576.34 666.65%2c 666.6666666666667 742.99Q691.78 668.11%2c 766.6666666666667 693.22Q859.55 619.43%2c 933.3333333333335 712.31Q1028.26 707.23%2c 1033.3333333333335 802.16Q1088.34 690.5%2c 1200.0000000000002 745.5Q1227.34 672.84%2c 1300.0000000000002 700.17Q1393.97 627.47%2c 1466.666666666667 721.44Q1544.41 632.51%2c 1633.3333333333337 710.25Q1717.43 694.35%2c 1733.3333333333337 778.45Q1766.03 711.15%2c 1833.3333333333337 743.85Q1859.75 670.26%2c 1933.3333333333337 696.68Q2000.2 663.54%2c 2033.3333333333337 730.41z' fill='rgba(243%2c 172%2c 195%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1069'%3e%3crect width='2000' height='800' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
 		background-repeat: no-repeat, repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
 		overflow-y: scroll;
-		/*background-color: #5ab9c4;
-		/*background-color: #7fc5ba
-		/*background: linear-gradient(141deg, rgba(241,250,238,1) 0%, rgba(168,218,220,1) 22%, rgba(29,53,87,1) 62%, rgba(230,57,70,1) 100%);
-		overflow-y: scroll;*/
+		background-color: #f3acc3;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1368,7 +1362,6 @@ input, select, textarea {
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
 		color: #3d3d3d;
-		/*color: #f5eae5;*/
 	}
 
 	h1 {
@@ -1535,7 +1528,6 @@ input, select, textarea {
 
 		header > p {
 			margin: 0.5em 0 0 0;
-			/*color: #f5eae5;*/
 			color: #393939;
 		}
 
@@ -1686,12 +1678,13 @@ input, select, textarea {
 /* List */
 
 	ul {
-		list-style: disc;
+		list-style: none;
 		padding-left: 1em;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			color: rgb(30, 29, 29);
 		}
 
 	ol {
@@ -1967,8 +1960,6 @@ input, select, textarea {
 		overflow: hidden;
 		width: 100%;
 		background: #ffffff;
-		/*box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25);*/
-		/*box-shadow: 5px 10px 10px #0696a6;*/
 		box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.4);
 		-moz-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
 		-webkit-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
@@ -2058,7 +2049,6 @@ input, select, textarea {
 						-webkit-object-position: center;
 						-ms-object-position: center;
 						object-position: center;
-						/*filter: brightness(75%);*/
 					}
 
 					#main > .panel.intro .pic .arrow {
@@ -2112,8 +2102,6 @@ input, select, textarea {
 					margin-bottom: 0;
 					width: 100%;
 					background-color: #fff;
-					/*background-color: #cecbcb;
-					/*background-color: #5ab9c4;*/
 				}
 
 					#main > .panel.intro header h1 {
@@ -2133,7 +2121,6 @@ input, select, textarea {
 						letter-spacing: -0.015em;
 						font-size: .75em;
 						font-weight: bolder;
-						/*margin: 0.25em 0 0 0;*/
 					}
 
 				@media screen and (max-width: 980px) {
@@ -2171,7 +2158,6 @@ input, select, textarea {
 						#main > .panel.intro header p {
 							font-size: 1em;
 							font-weight: bolder;
-							/*margin: 0.25em 0 0 0;*/
 						}
 
 				}
@@ -2179,7 +2165,6 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		/*color: #026d6c;*/
 		color: #f6eee9;
 		text-align: center;
 		padding: 2em 0 0 0;
