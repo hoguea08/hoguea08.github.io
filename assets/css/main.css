@@ -2001,7 +2001,7 @@ input, select, textarea {
 
 			#main > .panel.intro {
 				padding: 0;
-				height: 24em;
+				height: 25em;
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
@@ -2161,7 +2161,7 @@ input, select, textarea {
 				@media screen and (max-width: 736px) {
 
 					#main > .panel.intro .pic {
-						height: 24em;
+						height: 25em;
 					}
 
 					#main > .panel.intro header {
